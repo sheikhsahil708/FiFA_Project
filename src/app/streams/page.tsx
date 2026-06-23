@@ -76,6 +76,66 @@ export default function StreamsPage() {
               <span>Bintv Live Stream</span>
               <ExternalLink className="h-4 w-4" />
             </a>
+
+            <a 
+              href="https://www.hellosports.live/?m=1" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>HelloSports Live Stream</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
+
+            <a 
+              href="https://www.90live.in/?m=1" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>90Live Stream</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
+
+            <a 
+              href="https://www.score808live.site/?lang=1" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>Score808 Live</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
+
+            <a 
+              href="https://kooora4live.co/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>Kooora4Live</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
+
+            <a 
+              href="https://totalsportek.tech/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>Total Sportek</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
+
+            <a 
+              href="https://total-sporteks.pro/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center justify-between rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3.5 border border-white/[0.03] hover:border-brand-blue/20 text-xs font-semibold text-gray-200 hover:text-brand-blue transition-all cursor-pointer"
+            >
+              <span>TotalSportek Pro</span>
+              <ExternalLink className="h-4 w-4" />
+            </a>
           </div>
         </div>
 
